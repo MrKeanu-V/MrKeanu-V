@@ -6,6 +6,13 @@
 
 🎯My aim? To transform intriguing ideas into reality with meticulous coding and elegant solutions.
 
+<!-- This is github status view row -->
+<p align="center">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MrKeanu-V&show_icons=true&theme=default#gh-light-mode-only&include_all_commits=true&count_private=true"/>
+  &nbsp;&nbsp;
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrKeanu-V&layout=compact&langs_count=8&theme=default#gh-light-mode-only"/>
+</p>
+
 <!--
 **MrKeanu-V/MrKeanu-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
