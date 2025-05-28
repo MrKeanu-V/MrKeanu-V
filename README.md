@@ -1,17 +1,22 @@
 ## Hi there, I'm William 👋
-
-💻Hi, I'm William, a dedicated student and emerging tech enthusiast from Chongqing, China.
-
-🧐With a keen interest rooted in computer science and technology, I explore and contribute to the vast expanse of open-source projects. My journey at university has been filled with learning and growth, shaping my passion for innovation and collaboration. Through open-source, I embrace the sharing of knowledge and collective advancement.
-
-🎯My aim? To transform intriguing ideas into reality with meticulous coding and elegant solutions.
-
-<!-- This is github status view row -->
+<!-- This is github statistic view row -->
 <p align="center">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MrKeanu-V&show_icons=true&theme=default#gh-light-mode-only&include_all_commits=true&count_private=true"/>
   &nbsp;&nbsp;
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrKeanu-V&layout=compact&langs_count=8&theme=default#gh-light-mode-only"/>
 </p>
+
+🙋‍♂️Hi, I'm William, a dedicated student and emerging tech enthusiast from Chongqing, China.
+
+🧐With a keen interest rooted in computer science and technology, I explore and contribute to the vast expanse of open-source projects. 
+
+🎯My aim? To transform intriguing ideas into reality with meticulous coding and elegant solutions.
+
+🌱My current main interests lie in **Game Development** and **Deep Learning** research (CV & NLP). 
+
+🔭Main **Technical Stacks** are **C++**, **Python** and **C#** etc.
+
+💻Main Frameworks include **QT** and **Unity**, **Pytorch** etc.
 
 <!--
 **MrKeanu-V/MrKeanu-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
