@@ -12,11 +12,13 @@
 
 🎯My aim? To transform intriguing ideas into reality with meticulous coding and elegant solutions.
 
-🌱My current main interests lie in **Game Development** and **Deep Learning** research (CV & NLP). 
+🌱My current main interests lie in **Game Development** and **Deep Learning** (research in CV & NLP). 
 
-🔭Main **Technical Stacks** are **C++**, **Python** and **C#** etc.
+🔭Main **Technical Stacks** are **C/C++**, **Python** and **C#** etc.
 
-💻Main Frameworks include **QT** and **Unity**, **Pytorch** etc.
+💻Main Frameworks include **QT** and **Unity**, **Pytorch**, **STM32** etc.
+
+🔧Main AI vibe workflow include **Cursor**, **Cline** etc.
 
 <!--
 **MrKeanu-V/MrKeanu-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
