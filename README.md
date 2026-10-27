@@ -18,7 +18,7 @@
 
 💻Main Frameworks include **QT** and **Unity**, **Pytorch**, **STM32** etc.
 
-🔧Main AI vibe workflow include **Cursor**, **Cline** etc.
+🔧Main AI vibe workflow include **DS Harness**, **Claude**, **Cursor**, **Cline** etc.
 
 <!--
 **MrKeanu-V/MrKeanu-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
